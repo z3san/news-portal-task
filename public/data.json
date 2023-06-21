@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "News 1",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "image_url": "https://www.wjbf.com/wp-content/uploads/sites/47/2020/02/news-6-basic.jpg?w=1280",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 1000,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "News 2",
+      "details": "Dolor sit amet, consectetur adipiscing elit.",
+      "image_url": "https://media.nbcmiami.com/2020/10/NBC_Florida.png?fit=1200%2C628&quality=85&strip=all",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 500,
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "title": "News 3",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image_url": "https://cdn.abcotvs.net/abcotv/assets/news/wpvi/images/logos/default_800x450.jpg",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 800,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "title": "News 4",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIup1YzzIrI-EJ59EPRQYMAv_absRV74zbCiaRNbXGMp7D-KAvhBp1vcQjAF_Athj-M44&usqp=CAU",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 1200,
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "title": "News 5",
+      "details": "Dolor sit amet, consectetur adipiscing elit.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_mkHBDj40Gw7rjSOyzE76Kpd99OhUmcA0jYAa14V0GQcWEZ22yqTWiaiXkzIW0Q49u5E&usqp=CAU",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 900,
+      "rating": 4.1
+    },
+    {
+      "id": 6,
+      "title": "News 6",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdgsAjDbZUIfU3fa4w1FA5P8tcMY_35tdgQ&usqp=CAU",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "total_view": 1500,
+      "rating": 4.6
+    }
+  ]
+  
+ 
+  
